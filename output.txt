@@ -1,0 +1,264 @@
+Course: CISC 1100, Section: R01
+Description: Structures of Computer Science, Hours: 3
+CRN: 10916, Term: Fall 2023
+Instructor: "Seaton  Marlon A. "
+Meeting Times: "Monday,Thursday", Time: 08:30 AM - 09:45 AM
+
+Course: CISC 1100, Section: R02
+Description: Structures of Computer Science, Hours: 3
+CRN: 40113, Term: Fall 2023
+Instructor: "Seaton  Marlon A. "
+Meeting Times: "Tuesday,Thursday", Time: 05:30 PM - 06:45 PM
+
+Course: CISC 1100, Section: R03
+Description: Structures of Computer Science, Hours: 3
+CRN: 49833, Term: Fall 2023
+Instructor: "Pastine  Michael A. "
+Meeting Times: "Tuesday,Friday", Time: 08:30 AM - 09:45 AM
+
+Course: CISC 1100, Section: R04
+Description: Structures of Computer Science, Hours: 3
+CRN: 10931, Term: Fall 2023
+Instructor: "Pastine  Michael A. "
+Meeting Times: "Tuesday,Friday", Time: 01:00 PM - 02:15 PM
+
+Course: CISC 1100, Section: R06
+Description: Structures of Computer Science, Hours: 3
+CRN: 11217, Term: Fall 2023
+Instructor: TBD
+Meeting Times: "Monday,Thursday", Time: 05:30 PM - 06:45 PM
+
+Course: CISC 1400, Section: R01
+Description: Discrete Structures, Hours: 4
+CRN: 11222, Term: Fall 2023
+Instructor: "Liu  Zigeng "
+Meeting Times: "Tuesday,Friday", Time: 11:30 AM - 12:45 PM
+
+Course: CISC 1400, Section: R02
+Description: Discrete Structures, Hours: 4
+CRN: 40114, Term: Fall 2023
+Instructor: "Liu  Zigeng "
+Meeting Times: "Tuesday,Friday", Time: 01:00 PM - 02:15 PM
+
+Course: CISC 1600, Section: R01
+Description: Computer Science I, Hours: 3
+CRN: 49834, Term: Fall 2023
+Instructor: "Trovato  Karen I. "
+Meeting Times: "Monday,Thursday", Time: 11:30 AM - 12:45 PM
+
+Course: CISC 1600, Section: R02
+Description: Computer Science I, Hours: 3
+CRN: 33074, Term: Fall 2023
+Instructor: "Trovato  Karen I. "
+Meeting Times: "Tuesday,Friday", Time: 10:00 AM - 11:15 AM
+
+Course: CISC 1600, Section: R03
+Description: Computer Science I, Hours: 3
+CRN: 43030, Term: Fall 2023
+Instructor: "Kounavelis  Nikitas P. "
+Meeting Times: "Monday,Thursday", Time: 04:00 PM - 05:15 PM
+
+Course: CISC 1600, Section: R04
+Description: Computer Science I, Hours: 3
+CRN: 40115, Term: Fall 2023
+Instructor: TBD
+Meeting Times: "Monday,Thursday", Time: 11:30 AM - 12:45 PM
+
+Course: CISC 1600, Section: R06
+Description: Computer Science I, Hours: 3
+CRN: 36373, Term: Fall 2023
+Instructor: "Kounavelis  Nikitas P. "
+Meeting Times: "Tuesday,Friday", Time: 11:30 AM - 12:45 PM
+
+Course: CISC 1610, Section: R01
+Description: Computer Science I Lab, Hours: 1
+CRN: 49835, Term: Fall 2023
+Instructor: "Trovato  Karen I. "
+Meeting Times: Tuesday, Time: 01:00 PM - 02:15 PM
+
+Course: CISC 1610, Section: R02
+Description: Computer Science I Lab, Hours: 1
+CRN: 33079, Term: Fall 2023
+Instructor: "Trovato  Karen I. "
+Meeting Times: Monday, Time: 01:00 PM - 02:15 PM
+
+Course: CISC 1610, Section: R03
+Description: Computer Science I Lab, Hours: 1
+CRN: 43031, Term: Fall 2023
+Instructor: "Kounavelis  Nikitas P. "
+Meeting Times: Thursday, Time: 02:30 PM - 03:45 PM
+
+Course: CISC 1610, Section: R04
+Description: Computer Science I Lab, Hours: 1
+CRN: 40116, Term: Fall 2023
+Instructor: TBD
+Meeting Times: Wednesday, Time: 02:30 PM - 03:45 PM
+
+Course: CISC 1610, Section: R06
+Description: Computer Science I Lab, Hours: 1
+CRN: 36374, Term: Fall 2023
+Instructor: "Kounavelis  Nikitas P. "
+Meeting Times: Friday, Time: 02:30 PM - 03:45 PM
+
+Course: CISC 1800, Section: R01
+Description: Introduction to Computer Programming, Hours: 3
+CRN: 45467, Term: Fall 2023
+Instructor: "Toliyat  Amir "
+Meeting Times: Wednesday, Time: 02:30 PM - 05:00 PM
+
+Course: CISC 1810, Section: R01
+Description: Introduction to Computer Programming Lab, Hours: 1
+CRN: 45468, Term: Fall 2023
+Instructor: "Toliyat  Amir "
+Meeting Times: Friday, Time: 02:30 PM - 03:45 PM
+
+Course: CISC 2000, Section: R02
+Description: Computer Science II, Hours: 3
+CRN: 33077, Term: Fall 2023
+Instructor: "Toliyat  Amir "
+Meeting Times: "Tuesday,Friday", Time: 11:30 AM - 12:45 PM
+
+Course: CISC 2000, Section: R03
+Description: Computer Science II, Hours: 3
+CRN: 36375, Term: Fall 2023
+Instructor: "Toliyat  Amir "
+Meeting Times: "Monday,Thursday", Time: 04:00 PM - 05:15 PM
+
+Course: CISC 2010, Section: R02
+Description: Computer Science II Lab, Hours: 1
+CRN: 33081, Term: Fall 2023
+Instructor: "Toliyat  Amir "
+Meeting Times: Wednesday, Time: 11:30 AM - 12:45 PM
+
+Course: CISC 2010, Section: R03
+Description: Computer Science II Lab, Hours: 1
+CRN: 36376, Term: Fall 2023
+Instructor: "Toliyat  Amir "
+Meeting Times: Wednesday, Time: 01:00 PM - 02:15 PM
+
+Course: CISC 2100, Section: R01
+Description: Discrete Structures II, Hours: 3
+CRN: 27200, Term: Fall 2023
+Instructor: "Liu  Zigeng "
+Meeting Times: "Tuesday,Friday", Time: 10:00 AM - 11:15 AM
+
+Course: CISC 2100, Section: R02
+Description: Discrete Structures II, Hours: 3
+CRN: 40117, Term: Fall 2023
+Instructor: "Liu  Zigeng "
+Meeting Times: "Monday,Thursday", Time: 11:30 AM - 12:45 PM
+
+Course: CISC 2110, Section: R01
+Description: Discrete Structures II Lab, Hours: 1
+CRN: 27201, Term: Fall 2023
+Instructor: "Liu  Zigeng "
+Meeting Times: Wednesday, Time: 10:00 AM - 11:15 AM
+
+Course: CISC 2110, Section: R02
+Description: Discrete Structures II Lab, Hours: 1
+CRN: 40118, Term: Fall 2023
+Instructor: "Liu  Zigeng "
+Meeting Times: Wednesday, Time: 11:30 AM - 12:45 PM
+
+Course: CISC 2200, Section: R01
+Description: Data Structures, Hours: 4
+CRN: 11231, Term: Fall 2023
+Instructor: TBD
+Meeting Times: "Tuesday,Friday", Time: 10:00 AM - 11:15 AM
+
+Course: CISC 2200, Section: R02
+Description: Data Structures, Hours: 4
+CRN: 28460, Term: Fall 2023
+Instructor: "Li  Yanjun "
+Meeting Times: "Monday,Thursday", Time: 02:30 PM - 03:45 PM
+
+Course: CISC 2350, Section: R01
+Description: Information and Web Programming, Hours: 4
+CRN: 49836, Term: Fall 2023
+Instructor: "Toliyat  Amir "
+Meeting Times: "Monday,Thursday", Time: 05:30 PM - 06:45 PM
+
+Course: CISC 2500, Section: R01
+Description: Information and Data Management, Hours: 4
+CRN: 49837, Term: Fall 2023
+Instructor: "Kounavelis  Nikitas P. "
+Meeting Times: "Tuesday,Friday", Time: 01:00 PM - 02:15 PM
+
+Course: CISC 2540, Section: R01
+Description: Introduction to Video Game Design, Hours: 4
+CRN: 45469, Term: Fall 2023
+Instructor: "Biswas  Sharang "
+Meeting Times: "Monday,Thursday", Time: 04:00 PM - 05:15 PM
+
+Course: CISC 3500, Section: R01
+Description: Database Systems, Hours: 4
+CRN: 11234, Term: Fall 2023
+Instructor: "Chen  Sanchuan "
+Meeting Times: "Monday,Thursday", Time: 10:00 AM - 11:15 AM
+
+Course: CISC 3580, Section: R01
+Description: Cybersecurity and Applications, Hours: 4
+CRN: 33091, Term: Fall 2023
+Instructor: TBD
+Meeting Times: Monday, Time: 06:00 PM - 08:30 PM
+
+Course: CISC 3593, Section: R01
+Description: Computer Organization, Hours: 4
+CRN: 21114, Term: Fall 2023
+Instructor: "Trovato  Karen I. "
+Meeting Times: "Monday,Thursday", Time: 10:00 AM - 11:15 AM
+
+Course: CISC 3595, Section: R01
+Description: Operating Systems, Hours: 4
+CRN: 36380, Term: Fall 2023
+Instructor: TBD
+Meeting Times: "Tuesday,Friday", Time: 02:30 PM - 03:45 PM
+
+Course: CISC 3650, Section: R01
+Description: Forensic Computing, Hours: 4
+CRN: 49838, Term: Fall 2023
+Instructor: "Flatley  Stephen R. "
+Meeting Times: Monday, Time: 06:00 PM - 08:30 PM
+
+Course: CISC 4001, Section: R01
+Description: Computers and Robots in Film, Hours: 4
+CRN: 33092, Term: Fall 2023
+Instructor: TBD
+Meeting Times: Tuesday, Time: 08:30 AM - 11:15 AM
+
+Course: CISC 4006, Section: R01
+Description: Brains and Behavior in Beasts and Bots, Hours: 4
+CRN: 49839, Term: Fall 2023
+Instructor: "Lyons  Damian M. "
+Meeting Times: "Monday,Thursday", Time: 02:30 PM - 03:45 PM
+
+Course: CISC 4080, Section: R01
+Description: Computer Algorithms, Hours: 4
+CRN: 11236, Term: Fall 2023
+Instructor: TBD
+Meeting Times: "Tuesday,Friday", Time: 11:30 AM - 12:45 PM
+
+Course: CISC 4090, Section: R01
+Description: Theory of Computation, Hours: 4
+CRN: 33094, Term: Fall 2023
+Instructor: "Hsu  Derbiau F. "
+Meeting Times: "Monday,Thursday", Time: 10:00 AM - 11:15 AM
+
+Course: CISC 4615, Section: R01
+Description: Data Communications and Networks, Hours: 4
+CRN: 11237, Term: Fall 2023
+Instructor: TBD
+Meeting Times: "Tuesday,Friday", Time: 02:30 PM - 03:45 PM
+
+Course: CISC 4631, Section: R01
+Description: Data Mining, Hours: 4
+CRN: 33095, Term: Fall 2023
+Instructor: "Bhuiyan  Zakirul Alam "
+Meeting Times: "Monday,Thursday", Time: 04:00 PM - 05:15 PM
+
+Course: CISC 4650, Section: R01
+Description: Cyberspace: Issues and Ethics, Hours: 4
+CRN: 40121, Term: Fall 2023
+Instructor: TBD
+Meeting Times: "Tuesday,Friday", Time: 01:00 PM - 02:15 PM
+
